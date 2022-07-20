@@ -1,0 +1,3 @@
+Handphone|samsung|5|Baru|di kirim dari singapore
+Laptop|lenovo|1|Bekas|bekas tukar tambah
+komputer|apple|1|Baru|dikirim dari singapore
